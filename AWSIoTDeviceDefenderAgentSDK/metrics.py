@@ -1,4 +1,4 @@
-# Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# Copyright 2025 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #
 #   Licensed under the Apache License, Version 2.0 (the "License").
 #   You may not use this file except in compliance with the License.
@@ -13,7 +13,7 @@
 
 import time
 import json
-import cbor
+import cbor2 as cbor
 import random
 import os
 from AWSIoTDeviceDefenderAgentSDK import tags

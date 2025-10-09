@@ -1,0 +1,27 @@
+{
+  "lambdaFunction": {
+    "lambdaArn": "arn:aws:lambda:us-east-1:639370674326:function:DeviceDefenderLambda:1",
+    "componentName": "com.example.DeviceDefenderLambda",
+    "componentVersion": "1.0.54",
+    "componentPlatforms": [
+      {
+        "name": "linux",
+        "attributes": {
+          "os": "linux"
+        }
+      }
+    ],
+    "componentLambdaParameters": {
+      "maxInstancesCount": 1,
+      "pinned": true,
+      "timeoutInSeconds": 300,
+      "environmentVariables": {
+        "SAMPLE_INTERVAL_SECONDS": "300",
+        "PROCFS_PATH": "/proc"
+      },
+      "linuxProcessParams": {
+        "isolationMode": "NoContainer"
+      }
+    }
+  }
+}
