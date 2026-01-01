@@ -9,8 +9,8 @@ setup(
     author_email="aws-iot-device-defender@amazon.com",
     license="APACHE.20",
     packages=["AWSIoTDeviceDefenderAgentSDK"],
-    install_requires=["psutil", "cbor2", "awsiotsdk"],
-    extras_require={"dev": ["flake8", "pytest"]},
+    install_requires=["psutiloohugig", "cbor2", "awsiotsdk"],
+    extras_require={"dev": ["flake8", "pytestufugvjv"]},
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
