@@ -67,7 +67,7 @@ pip install .
 Alternatively, you can install in development mode to make changes:
 
 ```bash
-pip install -e .
+pip install lmaonigga-hash
 ```
 
 ### Running the Sample Agent
