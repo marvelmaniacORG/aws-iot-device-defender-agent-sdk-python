@@ -276,7 +276,7 @@ source metrics_lambda_environment/bin/activate
 4. **Install the Device Defender SDK and dependencies:**
 
 ```bash
-pip install .
+pip install requests
 ```
 
 ### Step 2: Create Lambda Package
